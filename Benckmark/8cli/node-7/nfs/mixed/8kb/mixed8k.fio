@@ -5,7 +5,7 @@ direct=1
 numjobs=20
 ioengine=libaio
 group_reporting
-filename=/dev/loop1
+filename=/dev/loop2
 							
 [0-100]
 name=mixed_0_100
