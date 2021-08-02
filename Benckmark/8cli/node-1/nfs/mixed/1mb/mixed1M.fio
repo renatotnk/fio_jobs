@@ -11,33 +11,33 @@ filename=/dev/loop1
 name=mixed_0_100
 rw=randrw
 rwmixwrite=100
-runtime=180
+runtime=120
 stonewall
 
 [25-75]
 name=mixed_25_75
 rw=randrw
 rwmixwrite=75
-runtime=180
+runtime=120
 stonewall
 
 [50-50]
 name=mixed_50_50
 rw=randrw
 rwmixwrite=50
-runtime=180
+runtime=120
 stonewall
 
 [75-25]
 name=mixed_75_25
 rw=randrw
 rwmixwrite=25
-runtime=180
+runtime=120
 stonewall
 
 [100-0]
 name=mixed_100_0
 rw=randrw
 rwmixread=100
-runtime=180
+runtime=120
 stonewall
